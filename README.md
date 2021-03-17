@@ -1,3 +1,4 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/LeCoderCat/prime-dnac-inventory)
 # prime-dnac-inventory
 Example code on how to perform migration of the devices from Prime Infrastructure inventory to import them to DNA Center's inventory.
 The files included on this repository contain:
