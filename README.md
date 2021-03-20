@@ -1,5 +1,5 @@
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/LeCoderCat/prime-dnac-inventory)
-# prime-dnac-inventory
+# migrate-prime-to-dnac-inventory
 Example code on how to perform migration of the devices from Prime Infrastructure inventory to import them to DNA Center's inventory.
 The files included on this repository contain:
 
@@ -10,8 +10,8 @@ The script should be run on the terminal on a device that has python3 and the re
 You can find the packages needed listed on the file requirement.txt
 
 ### Setting Up to Run the script
-Clone and Prep the Environment
-    Clone the code repo
+Clone and Prep the Environment: clone the code repo
+    
     ```bash
     git clone https://github.com/LeCoderCat/prime-dnac-inventory.git
     cd prime-dnac-inventory
