@@ -12,10 +12,9 @@ You can find the packages needed listed on the file requirement.txt
 ### Setting Up to Run the script
 Clone and Prep the Environment: clone the code repo
     
-    ```bash
     git clone https://github.com/LeCoderCat/prime-dnac-inventory.git
     cd prime-dnac-inventory
-    ```
+    
    
 ### Setup Python Virtual Environment
     1. MacOS or Linux
